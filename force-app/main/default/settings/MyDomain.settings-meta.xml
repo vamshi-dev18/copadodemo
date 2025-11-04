@@ -19,7 +19,7 @@
     <isFirstPartyCookieUseRequired>false</isFirstPartyCookieUseRequired>
     <isInstancedApiTrafficBlocked>true</isInstancedApiTrafficBlocked>
     <logRedirections>false</logRedirections>
-    <myDomainName>ihg84-dev-ed</myDomainName>
+    <myDomainName>ihgqa-dev-ed</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
